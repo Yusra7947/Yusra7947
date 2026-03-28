@@ -12,7 +12,7 @@ I bridge the gap between complex financial data and actionable AI insights. With
 - Data Engineering: PDF Parsing, RAG (Retrieval  Augmented Generation)
   
   ## Key Projects
-### [AI Annual Report Consultant](link-to-your-repo)
+### [AI Annual Report Consultant](https://github.com/Yusra7947/AI-Annual-Report-Consultant)
 A Python based RAG application that uses LangChain and FAISS to perform deep dive analysis on financial reports. It allows users to query complex documents using natural language.
 
 ## Current Focus
